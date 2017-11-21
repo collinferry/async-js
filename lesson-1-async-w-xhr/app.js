@@ -22,7 +22,7 @@ function callUnsplash(){
 function callNYT(){
   const articleRequest = new XMLHttpRequest();
   articleRequest.onload = addArticles;
-  articleRequest.open('GET', `http://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=b713c4d738c04e068c32fac65855c953`);
+  articleRequest.open('GET', `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=b713c4d738c04e068c32fac65855c953`);
   articleRequest.send();
 }
 
