@@ -8,4 +8,4 @@ All of the following appear identical from the front end UX. The differences are
 2. <a href="https://collinferry.github.io/async-js/lesson-2-async-w-jQuery/index.html">Ajax with jQuery</a>
 3. <a href="https://collinferry.github.io/async-js/lesson-3-async-w-fetch/index.html">Ajax with Fetch</a>
 
-<img src="https://raw.githubusercontent.com/collinferry/async-js/master/demoscreen.png">
+<img src="https://raw.githubusercontent.com/collinferry/async-js/master/demoscreen.png" align="middle">
